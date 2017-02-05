@@ -37,4 +37,4 @@ onPrepare:function(){
 };
 ```
 
-For a full implementation, see the `[conf.js](https://github.com/zac11/jasmine_spec_reporter/blob/master/conf.js)` file in this repository.
+For a full implementation, see the [conf.js](https://github.com/zac11/jasmine_spec_reporter/blob/master/conf.js) file in this repository.
