@@ -1,5 +1,14 @@
 # Jasmine Spec Reporter
 
+
+**Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
+
+- [Jasmine Spec Reporter](#)
+- [Installation](#)
+- [Protractor Changes](#)
+
+
+
 This is a protractor example of Jasmine Spec Reporter, which is a real time console spec reporter for jasmine behavior-driven development testing framework.
 
 
